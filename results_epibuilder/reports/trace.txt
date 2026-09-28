@@ -1,0 +1,6 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+1	95/3d4e6c	107	prepare_csv (prepare_csv)	COMPLETED	0	2026-09-28 11:04:41.151	408ms	356ms	226.7%	38 MB	8.2 GB	6.4 MB	24.5 KB
+2	df/2d3f20	251	validate_fasta (validate_fasta)	COMPLETED	0	2026-09-28 11:04:41.588	635ms	583ms	188.2%	37.7 MB	8.1 GB	9.2 MB	25.7 KB
+3	f8/13db49	396	run_localization (run_localization)	COMPLETED	0	2026-09-28 11:04:42.237	20.8s	21.3s	1.9%	99.2 MB	10.8 GB	5.7 MB	41.9 KB
+4	d0/313af5	1780	run_epibuilder (epibuilder)	COMPLETED	0	2026-09-28 11:05:03.106	2s	2.3s	280.5%	283.6 MB	9.3 GB	16.5 MB	1.6 MB
+5	ca/843eca	1983	export_excel (export_excel)	COMPLETED	0	2026-09-28 11:05:05.079	758ms	706ms	292.0%	38.3 MB	8.4 GB	8.3 MB	33 KB
